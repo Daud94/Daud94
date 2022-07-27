@@ -1,4 +1,4 @@
-## About Me
+## About
 - 👋 Hi, I’m Daud Olarewaju
 - 👀 I’m interested in Mobile App Developement and Backend Development.
 - 🌱 I’m currently learning Native Android Developemnt and Full Stack Web Development
