@@ -1,9 +1,8 @@
 # Daud Olarewaju
 ## Backend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daud-olarewaju-3a9671100)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:olarewajuyahyadaud@gmail.com)
 
 ## About Me
 Backend developer passionate about creating scalable, efficient, and maintainable server-side applications. Experienced in designing RESTful APIs, implementing microservices, and working with cloud technologies. Always exploring new technologies to improve system architecture and performance.
@@ -46,12 +45,13 @@ Backend developer passionate about creating scalable, efficient, and maintainabl
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Daud94&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daud94&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ## 🚀 Featured Projects
 
 ### Project Name 1
 - **Description**: A scalable microservice architecture for [specific application]
 - **Tech Stack**: Node.js, Express, PostgreSQL, Docker, AWS
-- **[Repository](https://github.com/yourusername/project1)** | **[Live Demo](https://demo-link.com)**
+- **[Live Demo](https://demo-link.com)**
 
 ### Project Name 2
 - **Description**: RESTful API with advanced authentication and authorization
@@ -64,7 +64,7 @@ Backend developer passionate about creating scalable, efficient, and maintainabl
 - **[Repository](https://github.com/yourusername/project3)**
 
 ## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START
 - [Building Scalable Backend Systems with Microservices](https://yourblog.com/post1)
 - [Advanced Database Optimization Techniques](https://yourblog.com/post2)
 - [Securing Your Backend: Best Practices](https://yourblog.com/post3)
