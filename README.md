@@ -42,7 +42,7 @@ Backend developer passionate about creating scalable, efficient, and maintainabl
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Daud94&show_icons=true&theme=dark)
+<!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Daud94&show_icons=true&theme=dark)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daud94&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
